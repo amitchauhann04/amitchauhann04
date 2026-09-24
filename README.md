@@ -9,5 +9,5 @@
 `Python` `Nmap` `Wireshark` `Linux` `Git`
 
 ### 📌 Featured Projects
-- [Port Scanner]([link](https://github.com/amitchauhann04/project1-scanner)) - Python + Nmap based network scanner
+- [Port Scanner] (https://github.com/amitchauhann04/project1-scanner) - Python + Nmap based network scanner
 - [Phishing Analyzer](link) - Email security tool
