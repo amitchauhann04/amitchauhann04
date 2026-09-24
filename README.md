@@ -3,7 +3,7 @@
 🛡️ Cybersecurity Enthusiast | IT Support | Python
 - 🔭 Currently working on: Security Log Analyzer
 - 🌱 Learning: Splunk, Nmap, Phishing Analysis
-- 📫 How to reach me: [Your LinkedIn Link]
+- 📫 How to reach me: https://linkedin.com/in/amitchauhan02
 
 ### 🛠️ Skills
 `Python` `Nmap` `Wireshark` `Linux` `Git`
